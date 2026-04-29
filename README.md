@@ -477,12 +477,3 @@ MIT License - Open source for educational & non-profit use
 
 **Built with ❤️ for Indian Farmers**  
 *Closing the farm-to-market gap, one transaction at a time.*
-
----
-
-**Ready to deploy?** Follow the [DEPLOYMENT_GUIDE.md](./DEPLOYMENT_GUIDE.md)
-
-**Questions?** Open an issue on GitHub or contact via email above.
-
-🚀 **Good luck with BluePrint 2026!**
-#
