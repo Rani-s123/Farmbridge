@@ -1,11 +1,13 @@
-# 🌾 FarmBridge - AI-Powered Farm-to-Buyer Marketplace
+# 🌾[ FarmBridge - AI-Powered Farm-to-Buyer Marketplace](https://youtu.be/NynZRGQiCsc)
 ## WhatsApp-First Solution for Direct Farmer-to-Buyer Connection
 
 **BluePrint 2026 Hackathon Submission**  
 Submitted by: rajpurohitrani004  
 Domain: AgriTech
-
+Number live on message:- +1 415-523-8886
+Youtube Video:- https://youtu.be/NynZRGQiCsc
 ---
+
 ## 📱 Live Demo Flow
 
 ### Farmer Experience (WhatsApp)
@@ -482,6 +484,4 @@ MIT License - Open source for educational & non-profit use
 **Questions?** Open an issue on GitHub or contact via email above.
 
 🚀 **Good luck with BluePrint 2026!**
-#   F a r m b r i d g e 
- 
- 
+#
